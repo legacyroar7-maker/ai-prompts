@@ -30,6 +30,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 7. [Selling online](#7-selling-online)
 8. [Running a small business](#8-running-a-small-business)
 9. [Make any AI answer better](#9-make-any-ai-answer-better)
+10. [Pitch decks and presentations](#10-pitch-decks-and-presentations)
 
 ---
 
@@ -286,6 +287,40 @@ I live in [country]. I work as [job]. I prefer short, clear answers with steps.
 Use simple English. Ask me questions when my request is unclear.
 ```
 
+## 10. Pitch decks and presentations
+
+**Turn my notes into a 10-slide outline**
+```
+You are a pitch deck coach. My audience is [investors / a client / my team / a bank].
+I want them to [invest / sign / approve / remember one thing] after the talk.
+Here are my notes: [paste notes, report or old slides].
+Make a 10-slide outline. For each slide give: slide number, a headline that states the point
+(a full sentence, under 12 words), 2 or 3 supporting points, and the best visual
+(chart, photo, diagram, table or big number).
+Use only facts from my notes. Mark any missing fact as [NEEDS DATA].
+```
+
+**Turn a slide title into an insight headline**
+```
+Here are my slide titles and what each slide shows: [paste, one per line].
+Rewrite each title as an insight headline: a short sentence that tells the reader
+the main point, not just the topic. Keep each under 12 words.
+Example: "Sales 2025" becomes "Online sales grew every quarter in 2025".
+Do not add numbers or claims that are not in my text.
+Answer as a table: old title | new headline.
+```
+
+**Cut a text-heavy slide to one idea**
+```
+This slide has too much text: [paste all the text on the slide].
+1) Tell me the one main idea in one sentence.
+2) Rewrite the slide with a headline and at most 3 short bullets (under 8 words each).
+3) Move everything else into speaker notes.
+4) Suggest one visual that could replace the bullets.
+Keep my meaning. Do not invent facts.
+```
+Check the outline: every headline should make sense even if someone reads only the headlines, top to bottom.
+
 ---
 
 ### A few honest rules
@@ -297,3 +332,5 @@ Use simple English. Ask me questions when my request is unclear.
 Made by **Tuli, Satin & Scale**. More free tools: **[Shop Tools](https://legacyroar7-maker.github.io/shop-tools/)** · **[Work with me on Upwork](https://www.upwork.com/freelancers/~01c18d191d6a95988c)**
 
 Free to use and share.
+
+Want this done for your shop or deck? I do it as a fixed-price project on Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01c18d191d6a95988c)
