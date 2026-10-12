@@ -240,6 +240,46 @@ Use the keyword naturally, no more than 3 times.
 ```
 Check the result for free with **[Shop Tools](https://legacyroar7-maker.github.io/shop-tools/)**.
 
+**Etsy listing (title, 13 tags, attributes)**
+```
+You are an Etsy listing expert. My item: [what it is, who it is for, material, size, colour,
+style, occasion, handmade or vintage]. Words buyers might search: [list, optional].
+Write:
+1) A title under 140 characters. Put the main search words in the first 40 characters.
+   Plain words only, no ALL CAPS, no repeated words, no symbol lists.
+2) 13 tags, each 20 characters or less. Use multi-word phrases. Do not copy the title word for word.
+3) The attributes to fill in: colour, material, occasion, style, who it is for.
+4) A description: 2 short opening lines, then bullets for size, material, care and delivery time.
+Use only facts I gave you. Mark anything missing as [ADD].
+```
+
+**eBay listing (title and item specifics)**
+```
+You are an eBay listing expert. My item: [brand, type, model or style, size, colour,
+material, condition, flaws, measurements].
+Write:
+1) A title under 80 characters in this order: brand, item type, key feature, size, colour.
+   No words like "L@@K" or "wow". No ALL CAPS.
+2) A list of item specifics as a table: field | value. Mark fields I did not give you as [ADD].
+3) The best condition to choose and one honest line that explains it.
+4) A short description with bullets: what it is, measurements, flaws, what is included.
+Mention every flaw clearly. Do not invent details.
+```
+
+**Vinted listing (resale clothing)**
+```
+You are a Vinted reseller who sells fast. My item: [brand, item type, size, colour,
+material, condition, flaws, measurements, why I am selling it, optional].
+Write:
+1) A short title: brand, item type, colour, size.
+2) The fields buyers filter by, as a list: category, brand, size, condition, colour, material.
+3) A friendly description of 3 to 5 short lines: fit, condition, flaws, measurements.
+4) 3 to 5 search words to add at the end of the description, not a long hashtag list.
+5) A price range I can test, if I paste prices of similar sold items: [paste, optional].
+Be honest about wear and flaws. Do not guess the brand or the material.
+```
+Check every title length for free with the **[Title checker](https://legacyroar7-maker.github.io/shop-tools/)**. Free planners: **[Etsy listing planner](https://github.com/legacyroar7-maker/seller-templates#2-etsy-listing-planner)** and **[eBay item specifics checklist](https://github.com/legacyroar7-maker/seller-templates#3-ebay-item-specifics-checklist-for-clothing)**.
+
 ## 8. Running a small business
 
 **Customer reply templates**
