@@ -31,6 +31,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 8. [Running a small business](#8-running-a-small-business)
 9. [Make any AI answer better](#9-make-any-ai-answer-better)
 10. [Pitch decks and presentations](#10-pitch-decks-and-presentations)
+11. [Presentations at work](#11-presentations-at-work)
 
 ---
 
@@ -360,6 +361,55 @@ This slide has too much text: [paste all the text on the slide].
 Keep my meaning. Do not invent facts.
 ```
 Check the outline: every headline should make sense even if someone reads only the headlines, top to bottom.
+
+## 11. Presentations at work
+
+**Meeting update deck (weekly or monthly)**
+```
+You are a clear, busy-manager-friendly presenter.
+I give a [weekly / monthly] update to [my manager / my team / leadership] on [project or area].
+Here are my notes: [paste what was done, numbers, problems, next steps].
+Make a 5-slide update:
+1) One-line summary: are we on track, at risk or late, and why.
+2) What we finished since the last update (3 bullets max).
+3) Key numbers: a small table of this period vs last period. Use only my numbers.
+4) Problems or risks, each with what I need (a decision, help or more time).
+5) Next steps with an owner and a date for each.
+Each slide gets a headline that states the point in under 12 words.
+Mark any missing number or date as [ADD].
+```
+
+**Sales one-pager (one slide or one page)**
+```
+You are a B2B sales writer. I sell [product or service] to [type of customer].
+Their main problem: [problem in their words]. What we do about it: [how it works].
+Proof I can use: [real results, client types, certifications, or "none yet"].
+Price or next step: [price range / free call / demo].
+Write a one-page sales sheet with these blocks:
+1) A headline that names the buyer's problem or the result they want, under 12 words.
+2) 3 benefits, each one short line, written for the buyer, not about us.
+3) How it works in 3 steps.
+4) Proof, only from what I gave you. If I wrote "none yet", leave this block out.
+5) One clear call to action.
+Keep the whole page under 150 words. Do not invent results, numbers or client names.
+```
+
+**Training slides for new staff**
+```
+You are a workplace trainer who teaches with simple steps.
+I need to train [new staff / a new team member] on [task or process, e.g. handling a return].
+Here is how we do it now: [paste the steps, rules and common mistakes].
+The training lasts [15 / 30] minutes.
+Make a slide outline with:
+1) A title slide and one slide on why this task matters (one sentence).
+2) One slide per step: a short headline, what to do, and what a mistake looks like.
+3) A "common mistakes" slide with how to avoid each one.
+4) A 3-question quiz slide with the answers in the speaker notes.
+5) A one-page checklist they can keep after the training.
+For every slide, suggest one visual (a screenshot, photo or simple diagram).
+Use only the steps I gave you. Mark anything unclear as [CHECK].
+```
+Before you build the slides: write every headline as the point, not the topic (see **[Insight headlines](https://github.com/legacyroar7-maker/deck-kit#2-insight-headlines-8-before-and-after-examples)**), pick the right chart with the **[Chart chooser](https://github.com/legacyroar7-maker/deck-kit#3-chart-chooser-which-chart-for-which-message)**, and check the design with the **[Slide design checklist](https://github.com/legacyroar7-maker/deck-kit#4-slide-design-checklist-12-rules)**. All free in **[Deck Kit](https://github.com/legacyroar7-maker/deck-kit)**.
 
 ---
 
