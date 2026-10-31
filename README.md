@@ -32,6 +32,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 9. [Make any AI answer better](#9-make-any-ai-answer-better)
 10. [Pitch decks and presentations](#10-pitch-decks-and-presentations)
 11. [Presentations at work](#11-presentations-at-work)
+12. [Fix my listing](#12-fix-my-listing)
 
 ---
 
@@ -410,6 +411,50 @@ For every slide, suggest one visual (a screenshot, photo or simple diagram).
 Use only the steps I gave you. Mark anything unclear as [CHECK].
 ```
 Before you build the slides: write every headline as the point, not the topic (see **[Insight headlines](https://github.com/legacyroar7-maker/deck-kit#2-insight-headlines-8-before-and-after-examples)**), pick the right chart with the **[Chart chooser](https://github.com/legacyroar7-maker/deck-kit#3-chart-chooser-which-chart-for-which-message)**, and check the design with the **[Slide design checklist](https://github.com/legacyroar7-maker/deck-kit#4-slide-design-checklist-12-rules)**. All free in **[Deck Kit](https://github.com/legacyroar7-maker/deck-kit)**.
+
+## 12. Fix my listing
+
+Already have a listing that is not working? These 3 prompts fix the most common problems: a title that is too long, a description full of specs, and a page that does not answer buyer questions. Paste your own text, not someone else's.
+
+**Shorten a title to a character limit**
+```
+You are a careful marketplace listing editor.
+Platform: [Etsy 140 / eBay 80 / Shopify SEO title 60 / Vinted / Depop / other: (number)] characters.
+My current title: [paste title].
+The words buyers search for most (in order): [list 2 to 4, optional].
+Rewrite the title so it fits the limit. Rules:
+1) Keep the main search words in the first 40 characters.
+2) Order: what it is, key feature, material or brand, size or colour.
+3) Remove repeated words, filler words ("beautiful", "amazing", "best") and symbols.
+4) No ALL CAPS. Do not add facts that are not in my title.
+Give me 3 versions as a table: title | character count | what you removed.
+Count characters including spaces and check the count twice.
+```
+
+**Turn specs into benefits**
+```
+You are a product description writer who writes for buyers, not for the factory.
+Product: [what it is]. Who buys it: [who, and what they use it for].
+Specs and features: [paste the list, e.g. "500 ml", "double wall", "oak handle"].
+For each spec, write one short benefit line: what it means for the buyer in daily life.
+Format each line as: spec | benefit (under 15 words).
+Then pick the 3 strongest benefits and write them as bullets for the top of the description.
+Use only my specs. Do not invent claims like "eco-friendly", "best quality" or health effects.
+If a spec has no clear benefit, keep it in the specs list and say so.
+```
+
+**Write 5 buyer questions with answers**
+```
+You are an online shop assistant who answers buyer questions in plain words.
+Product: [what it is]. Facts I can confirm: [size, material, care, what is in the box,
+delivery time, returns, who it fits or suits, any limits].
+Write the 5 questions a buyer is most likely to ask before buying this product.
+Cover: size or fit, material, care, delivery or returns, and one "will it work for me" question.
+For each: the question in the buyer's words, then a direct answer of 1 or 2 sentences
+that starts with the answer (yes, no, or the number).
+Use only my facts. If a fact is missing, write [ADD] instead of guessing.
+```
+Then check your work for free: title length with the **[Title checker](https://legacyroar7-maker.github.io/shop-tools/)**, page layout with the **[Product description structure](https://github.com/legacyroar7-maker/seller-templates#7-product-description-structure)**, and turn your 5 answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**. Short, direct answers like these help with SEO and AEO, but no prompt can promise rankings or sales.
 
 ---
 
