@@ -33,6 +33,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 10. [Pitch decks and presentations](#10-pitch-decks-and-presentations)
 11. [Presentations at work](#11-presentations-at-work)
 12. [Fix my listing](#12-fix-my-listing)
+13. [Product photos](#13-product-photos)
 
 ---
 
@@ -455,6 +456,61 @@ that starts with the answer (yes, no, or the number).
 Use only my facts. If a fact is missing, write [ADD] instead of guessing.
 ```
 Then check your work for free: title length with the **[Title checker](https://legacyroar7-maker.github.io/shop-tools/)**, page layout with the **[Product description structure](https://github.com/legacyroar7-maker/seller-templates#7-product-description-structure)**, and turn your 5 answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**. Short, direct answers like these help with SEO and AEO, but no prompt can promise rankings or sales.
+
+## 13. Product photos
+
+Good photos help buyers decide, but many listings miss key shots or leave the alt text empty. These 3 prompts plan the shoot, write the alt text and check what is missing. Use your own product facts and your own photos.
+
+**Write a shot list**
+```
+You are a product photographer who plans simple shoots with a phone.
+Product: [what it is]. Platform: [Etsy / Shopify / eBay / Vinted / Depop / other].
+Key facts: [size with numbers, colours or options, material, what is in the box].
+Who buys it and how they use it: [who, where, when].
+My setup: [phone or camera, window light or lamp, background I have, props I have].
+Make a shot list of 8 to 10 photos in the order they should appear in the listing.
+For each shot: shot name | what is in the frame | angle and distance | light and background | why a buyer needs it.
+Photo 1 must show the whole product clearly on a plain background, with no text on it.
+Include one shot that shows size (in a hand or next to a common object) and one detail close-up.
+Only plan shots I can take with my setup. Mark anything you need from me as [ADD].
+```
+
+**Write alt text for 5 photos**
+```
+You are an online shop assistant who writes alt text for product photos.
+Alt text tells people who use a screen reader what is in a photo.
+Product: [type]. Colour: [colour]. Material: [material]. Brand: [brand or "none"].
+My 5 photos:
+1) [e.g. main photo, front view, white background]
+2) [e.g. back view]
+3) [e.g. close-up of the handle]
+4) [e.g. in use on a kitchen table]
+5) [e.g. in a hand to show size]
+Write one alt text line per photo. Rules:
+1) Say what is in the photo in plain words. Under 125 characters.
+2) Do not start with "Image of" or "Photo of".
+3) No sales words ("best", "amazing", "buy now"), no hashtags, no emoji, no ALL CAPS.
+4) Do not repeat the colour and material in every line. Brand name only in line 1.
+5) Do not add facts that are not in my notes.
+Give me a table: photo | alt text | character count. Count characters including spaces and check twice.
+```
+
+**Check a photo set for missing angles**
+```
+You are a careful marketplace listing reviewer.
+I will upload my product photos in the order they appear in my listing.
+(If you cannot see images, I will describe each photo in one line instead.)
+Product: [what it is]. New or used: [new / used]. Platform: [Etsy / Shopify / eBay / Vinted / Depop / other].
+Check the set against this list: whole product on a plain background, front, back, side,
+detail close-up, size or scale, colours or options, in use, label or brand tag (for clothing),
+flaws or wear (for used items), what is in the box, packaging.
+Give me a table: shot | there? (yes / no / weak) | what to add or retake.
+Also flag: dark or blurry photos, colours that look different between photos,
+busy backgrounds, text or borders on photo 1, the same angle twice.
+End with the top 3 photos to take or retake first.
+Only judge what you can see. Do not guess the size, material or condition from the photos.
+```
+Then use the free checklists: plan the shoot with the **[Product photo shot list](https://github.com/legacyroar7-maker/seller-templates#8-product-photo-shot-list-for-etsy-and-shopify)** (Etsy and Shopify) or the **[Resale clothing photo checklist](https://github.com/legacyroar7-maker/seller-templates#6-resale-clothing-photo-checklist)** (eBay, Vinted, Depop), and check your alt text length with the **[Alt text helper](https://legacyroar7-maker.github.io/shop-tools/)**. Clear photos and good alt text help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
 
 ---
 
