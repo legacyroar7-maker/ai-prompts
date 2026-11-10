@@ -34,6 +34,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 11. [Presentations at work](#11-presentations-at-work)
 12. [Fix my listing](#12-fix-my-listing)
 13. [Product photos](#13-product-photos)
+14. [Collection pages](#14-collection-pages)
 
 ---
 
@@ -511,6 +512,52 @@ End with the top 3 photos to take or retake first.
 Only judge what you can see. Do not guess the size, material or condition from the photos.
 ```
 Then use the free checklists: plan the shoot with the **[Product photo shot list](https://github.com/legacyroar7-maker/seller-templates#8-product-photo-shot-list-for-etsy-and-shopify)** (Etsy and Shopify) or the **[Resale clothing photo checklist](https://github.com/legacyroar7-maker/seller-templates#6-resale-clothing-photo-checklist)** (eBay, Vinted, Depop), and check your alt text length with the **[Alt text helper](https://legacyroar7-maker.github.io/shop-tools/)**. Clear photos and good alt text help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
+
+## 14. Collection pages
+
+A collection page groups products, like "Ceramic Vases" or "Linen Shirts". Many shops leave it with a title and nothing else. These 3 prompts write a short intro, answer buyer questions from real facts, and plan links to other collections. Use your own shop facts.
+
+**Write a 2 to 4 sentence collection intro**
+```
+You are an online shop copywriter who writes short, clear collection intros.
+Shop: [shop name]. Collection: [collection name].
+What is in it: [product types, how many, price range].
+Facts I can confirm: [materials, sizes, colours, where or how it is made, care, delivery].
+Who buys it and why: [who, what for, gift or own use].
+Write an intro of 2 to 4 sentences, 40 to 70 words. Rules:
+1) Sentence 1 says what the collection is, using the words a buyer would search for.
+2) Then 1 or 2 facts that help a buyer choose (size range, material, care).
+3) End with one helpful pointer (e.g. "Need help choosing a size? See the FAQ below.").
+4) No sales words ("best", "amazing", "must-have"), no ALL CAPS, no emoji.
+5) Use only my facts. Write [ADD] where a fact is missing.
+Give me 3 versions as a table: intro | word count | main search words used.
+```
+
+**Write 5 collection FAQ answers from real facts**
+```
+You are an online shop assistant who answers buyer questions in plain words.
+Collection: [collection name]. Products in it: [types, sizes, colours, price range].
+Facts I can confirm: [materials, care, size guide, delivery times, returns, gift wrap, made to order or in stock].
+Write the 5 questions a buyer is most likely to ask about this collection as a whole, not one product.
+Cover: how to choose between the products, size or fit, material and care,
+delivery or returns, and one gift or use question.
+For each: the question in the buyer's words, then an answer of 1 or 2 sentences that starts with the answer.
+Use only my facts. If a fact is missing, write [ADD] instead of guessing.
+Then give me the same 5 questions and answers as a plain list I can paste into my page.
+```
+
+**Suggest related collections to link**
+```
+You are an online shop planner who helps buyers find the next thing they need.
+This collection: [collection name and what is in it].
+All my other collections: [paste the list of collection names].
+Pick 3 to 5 of MY collections that a buyer of this collection is most likely to want next.
+For each: collection | why a buyer would go there (one line) | short link text (2 to 5 words)
+| where to put the link (intro, below the products, or in the FAQ).
+Only use collections from my list. Do not invent new ones.
+If fewer than 3 fit well, say so and suggest which collection I could add later.
+```
+Then use the free tools: set up the whole page with the **[Shopify collection page checklist](https://github.com/legacyroar7-maker/seller-templates#9-shopify-collection-page-checklist)**, turn your FAQ answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**, and make a clean collection link with the **[URL handle maker](https://legacyroar7-maker.github.io/shop-tools/)**. A clear intro, honest answers and good links help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
 
 ---
 
