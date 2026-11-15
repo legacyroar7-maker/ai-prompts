@@ -35,6 +35,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 12. [Fix my listing](#12-fix-my-listing)
 13. [Product photos](#13-product-photos)
 14. [Collection pages](#14-collection-pages)
+15. [Shop policies and FAQs](#15-shop-policies-and-faqs)
 
 ---
 
@@ -558,6 +559,67 @@ Only use collections from my list. Do not invent new ones.
 If fewer than 3 fit well, say so and suggest which collection I could add later.
 ```
 Then use the free tools: set up the whole page with the **[Shopify collection page checklist](https://github.com/legacyroar7-maker/seller-templates#9-shopify-collection-page-checklist)**, turn your FAQ answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**, and make a clean collection link with the **[URL handle maker](https://legacyroar7-maker.github.io/shop-tools/)**. A clear intro, honest answers and good links help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
+
+## 15. Shop policies and FAQs
+
+Clear policies stop the same questions from coming back every day, and they help buyers trust a shop they do not know yet. These 3 prompts turn your own rules into a returns policy, a shipping FAQ and answers to real customer questions. Use your own rules and facts. The AI only writes them up in plain words.
+
+**Write a clear returns policy from my rules**
+```
+You are an online shop assistant who writes short, clear shop policies in plain words.
+Shop: [shop name]. I sell: [what you sell]. I sell on: [Shopify / Etsy / eBay / own site / other].
+I ship to: [countries]. Made to order or personalised items: [yes, which ones / no].
+My rules:
+- Days to start a return: [number] days from delivery.
+- Items I do not take back: [e.g. personalised, used, sale items].
+- Item condition needed: [unused, with tags, in original packaging].
+- Who pays return postage: [buyer / me / me only if the item is faulty].
+- Refund or exchange: [refund / exchange / store credit / buyer chooses].
+- Refund time after I get the item back: [number] days, to the original payment method.
+- Faulty, damaged or wrong item: [what the buyer should do, e.g. send a photo within X days].
+- How to start a return: [message me on the platform / form on my site].
+Write the policy with these headings: Returns, Items I cannot take back, Faulty or wrong items,
+Refunds, How to start a return. Under 250 words, short sentences, "you" and "we".
+Use only my rules. Write [ADD] where a rule is missing.
+Then list any of my rules that may clash with consumer law in the countries I ship to,
+so I can check them. Do not give legal advice and do not invent laws.
+```
+
+**Write a shipping FAQ**
+```
+You are an online shop assistant who answers delivery questions in plain words.
+Shop: [shop name]. I ship from: [country]. I ship to: [countries or regions].
+Facts I can confirm:
+- Time to make or pack an order: [e.g. 1 to 3 working days].
+- Carriers and services: [names].
+- Delivery times by region: [region: days].
+- Prices: [flat price / by weight / free over a set amount].
+- Tracking: [always / only for some services].
+- Customs and import fees: [who pays, for which countries].
+- Address changes and lost parcels: [what I do].
+Write 6 to 8 questions buyers really ask about delivery, in the buyer's words.
+Each answer: 1 or 2 sentences that start with the answer, with real numbers from my facts.
+Use only my facts. Write [ADD] where a fact is missing. Do not promise delivery dates I did not give.
+Give me a table: question | answer | words in the answer.
+Then give me the same questions and answers as a plain list I can paste into my page.
+```
+
+**Turn customer emails into 5 FAQ answers**
+```
+You are an online shop assistant who turns real customer questions into a short FAQ.
+Below are messages from my customers. I removed names, emails, addresses and order numbers.
+[paste 10 to 30 customer messages]
+My facts and rules: [products, sizes, care, delivery, returns, made to order or in stock].
+1) Group the messages by the question behind them. Show a table:
+   question | how many messages ask it | example wording a customer used.
+2) Pick the 5 questions asked most often.
+3) Write each as an FAQ: the question in the customer's words, then an answer of 1 or 2 sentences
+   that starts with the answer.
+4) Use only my facts. Write [ADD] where a fact is missing.
+5) Do not copy any customer's personal details into the FAQ.
+Then tell me where each answer helps most: product page, shipping page, returns page or a reply template.
+```
+Then use the free tools: put your product answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**, add short answers to each listing with the **[Product description structure](https://github.com/legacyroar7-maker/seller-templates#7-product-description-structure)**, and save quick replies with the **[Customer reply templates](#8-running-a-small-business)** prompt. On Shopify, policies go in **Settings > Policies**. On Etsy, eBay, Vinted and Depop, use the policy and return settings each platform gives you. Consumer rules differ by country, so check the official rules for each country you sell to (in the EU and UK, buyers usually have 14 days to cancel most online orders). Clear policies and honest answers help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
 
 ---
 
