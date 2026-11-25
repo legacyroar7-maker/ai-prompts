@@ -36,6 +36,7 @@ Before you answer, ask me up to 3 questions if anything important is missing.
 13. [Product photos](#13-product-photos)
 14. [Collection pages](#14-collection-pages)
 15. [Shop policies and FAQs](#15-shop-policies-and-faqs)
+16. [Shop emails](#16-shop-emails)
 
 ---
 
@@ -620,6 +621,71 @@ My facts and rules: [products, sizes, care, delivery, returns, made to order or 
 Then tell me where each answer helps most: product page, shipping page, returns page or a reply template.
 ```
 Then use the free tools: put your product answers into a page block with the **[AEO FAQ block](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages)**, add short answers to each listing with the **[Product description structure](https://github.com/legacyroar7-maker/seller-templates#7-product-description-structure)**, and save quick replies with the **[Customer reply templates](#8-running-a-small-business)** prompt. On Shopify, policies go in **Settings > Policies**. On Etsy, eBay, Vinted and Depop, use the policy and return settings each platform gives you. Consumer rules differ by country, so check the official rules for each country you sell to (in the EU and UK, buyers usually have 14 days to cancel most online orders). Clear policies and honest answers help buyers and support SEO and AEO, but no prompt can promise rankings or sales.
+
+---
+
+## 16. Shop emails
+
+Three emails do most of the work after a sale: "your order is on its way", "sorry, it is late" and "how did we do?". Clear, honest emails cut down "where is my order?" messages and help buyers trust you. These 3 prompts write them from your own facts. Use your own order details and rules. The AI only writes them up in plain words.
+
+**Order shipped email**
+```
+You are an online shop assistant who writes short, friendly order emails in plain words.
+Shop: [shop name]. I sell on: [Shopify / own site / other].
+What was sent: [product names, or "your order"]. Carrier and service: [name].
+Tracking: [link or number / no tracking for this service].
+Usual delivery time to this buyer: [e.g. 2 to 4 working days]. Packaging or care tip: [one line, optional].
+Who to contact with a problem: [reply to this email / message me on the platform].
+Write the email with:
+1) A subject line under 50 characters that says the order is on its way.
+2) Line 1: the order is on its way, with what was sent.
+3) Tracking and the usual delivery time from my facts, in one or two lines.
+4) One useful line (care tip, how to open, what to do if no one is home).
+5) How to reach me if something is wrong.
+Under 100 words, "you" and "we", no sales words, no discount code, no emoji.
+Use only my facts. Write [ADD] where a fact is missing. Do not promise a delivery date I did not give.
+Give me 2 versions: one warm, one very short.
+```
+
+**Late delivery apology**
+```
+You are an online shop assistant who writes calm, honest apology emails.
+Shop: [shop name]. Order: [what was ordered, order date].
+What happened: [e.g. made-to-order item took longer / carrier delay / stuck in customs / address problem].
+What I know now: [latest tracking status, new date if the carrier gave one, or "no new date yet"].
+What I am doing: [e.g. contacted the carrier, sending a new one, checking daily].
+What I can offer under my own rules: [e.g. refund if not here by X, cancel the order, free return, nothing extra].
+Write the email with:
+1) A subject line under 50 characters that names the order and the delay.
+2) A short sorry in line 1. No blaming the buyer or the carrier.
+3) What happened and the latest status, in plain words.
+4) What I am doing now, and when I will write again.
+5) The buyer's options from my rules only, with how to choose one.
+Under 130 words, "you" and "we", no emoji.
+Use only my facts. Do not promise a new delivery date unless I gave one. Do not offer anything I did not list.
+Then write a 2-line version I can send as a platform message.
+```
+
+**Review request after delivery**
+```
+You are an online shop assistant who writes polite review requests that follow platform rules.
+Shop: [shop name]. Product: [product name]. Delivered on: [date or "a few days ago"].
+Where the review goes: [Shopify review app / Etsy / eBay / Google / other].
+How to leave it: [link or short steps]. Who to contact with a problem: [how].
+Write a review request with:
+1) A subject line under 50 characters.
+2) A thank you for the order.
+3) One question: is everything OK with the [product]? If not, how to reach me first so I can help.
+4) A simple ask for an honest review, with how to leave it.
+5) A thank you at the end.
+Under 90 words, no emoji. Rules:
+- Ask for an honest review. Never ask for 5 stars or "a good review".
+- No discount, gift, free item or contest in return for a review.
+- Do not tell the buyer what to write.
+- Send it to every buyer, not only the happy ones.
+Then tell me the best day to send it after delivery for this product, and why, in one line.
+```
+Then use the free tools: save quick replies for other cases with the **[Customer reply templates](#8-running-a-small-business)** prompt, answer common delivery questions once with the **[Shipping FAQ](#15-shop-policies-and-faqs)** prompt, and keep your facts straight with the **[eBay and Vinted shipping cheat sheet](https://github.com/legacyroar7-maker/seller-templates#12-ebay-and-vinted-shipping-and-parcel-size-cheat-sheet)**. On Shopify, the order shipped email is in **Settings > Notifications > Customer notifications > Shipping confirmation**. On Etsy, eBay, Vinted and Depop, send messages inside the app and follow each platform's rules (Etsy, for example, sends its own review reminder). Honest, clear emails help buyers, but no prompt can promise reviews, rankings or sales.
 
 ---
 
